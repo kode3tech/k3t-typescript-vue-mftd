@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: k3t-typescript-vue-mftd
   title: Typescript Vue Microfrontend
-  description: 
+  description: Criar uma single page application usando VueJs microfrontend
   tags:
     - typescript
     - frontend
@@ -11,7 +11,7 @@ metadata:
     - pwa
     - microfrontend
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: website
   parameters:
     - title: Provide some simple information
